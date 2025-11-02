@@ -1,1 +1,1 @@
-I created this repo for my excercism excercises 
+I created this repo for my excercism excercises!
